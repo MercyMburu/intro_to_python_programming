@@ -56,6 +56,8 @@ while round_num<3:
 print("\nGame Over!")
 if my_score > comp_score:
     print("You won the game! ")
+elif my_score== comp_score:
+     print("You tied! ")
 else:
     print("Computer won the game.")
 
