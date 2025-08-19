@@ -25,12 +25,6 @@ My email is user@example.com, or contact@domain.com"""
 pattern=r"\b[a-z]+@+[a-z]+\.com\b"
 match=re.findall(pattern,text)
 print(match)
-import re
-
-text="contact us at wmercy160@gmail.com or home@yahoo.com or atieno@hotmail.com or mercy60@gmail.com"
-pattern=r"\b[a-zA-Z0-9]+@+[gmail|yahoo]+\.com\b"
-match=re.findall(pattern,text)
-print(match)
 
 
 

@@ -59,12 +59,12 @@ first={1,5,7,6}
 if 1 in first:
     print("yes")
     
-# add
-second={1,4}
-second.add(5)
-print(second)
+#add
+# second={1,4}
+# second.add(5)
+# print(second)
 
-# update
+#update
 second={1,4}
 second.update([6,7,8])
 print(second)
