@@ -1,5 +1,4 @@
 # Jumia Deals Scraper (Beginner Friendly)
-# ---------------------------------------
 # This script goes to the Jumia Flash Sales page
 # and collects product details like Name, Brand, Price, Discount, Reviews, and Rating.
 # Finally, it saves the results into a CSV file.
